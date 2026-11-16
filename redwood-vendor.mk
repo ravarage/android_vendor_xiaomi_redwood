@@ -436,6 +436,7 @@ PRODUCT_PACKAGES += \
     libOpenCL \
     libadreno_utils \
     libc2d30_bltlib \
+    libcamxexternalformatutils \
     libcapiv2svacnn \
     libcapiv2svarnn \
     libcapiv2vop \
@@ -776,7 +777,6 @@ PRODUCT_PACKAGES += \
     libcamera_scene \
     libcamerapostproc \
     libcamlog \
-    libcamxexternalformatutils \
     libcamxfacialfeatures \
     libcamxfdalgo \
     libcamxfdengine \
